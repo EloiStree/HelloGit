@@ -1,7 +1,9 @@
 **Sauver votre projet avec Git et Unity3D**
 
+
 * [ ] Afficher les dossiers cachés
 * [ ] Afficher les extensions de fichiers
+* [ ] Installer git
 * [ ] Créer un compte GitHub
 * [ ] Créer un répertoire privé ou public
   * [ ] Ajouter un README
