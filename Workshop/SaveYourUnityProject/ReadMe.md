@@ -4,7 +4,8 @@
 * [ ] Afficher les dossiers cachés
 * [ ] Afficher les extensions de fichiers
 * [ ] Installer git
-* [ ] Créer un compte GitHub
+* [ ] Ajouter votre nom et mail a git config
+* [ ] Créer un compte GitHub sur le site
 * [ ] Créer un répertoire privé ou public
   * [ ] Ajouter un README
   * [ ] Attention à l’alphanumérique
