@@ -7,9 +7,9 @@ Start [here](https://github.com/EloiStree//HelloGit/issues/42)
 "Une video sur l'histoire de depart de Git"     
 https://youtu.be/rktysGYzaO0?t=578     
   
-A regarder si vous parlerz francais:  
-- https://github.com/EloiStree/HelloGit/issues/66  
-  
+A regarder si vous parlerz francais: [#66](https://github.com/EloiStree/HelloGit/issues/66)     
+- [Il s'est fait trahir. Il a créé l'outil le plus utilisé au monde.](https://github.com/EloiStree/HelloGit/issues/66)  
+
 J y avais jamais pensee mais, le code de git est ici:     
 [https://github.com/git/git](https://github.com/git/git)     
 "Git utilise git pour se sauver" [🎥](https://youtu.be/rktysGYzaO0?t=730)  
