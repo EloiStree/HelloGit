@@ -1,6 +1,13 @@
 
 Start [here](https://github.com/EloiStree//HelloGit/issues/42)
 
+------------------
+
+[<img width="1039" height="276" alt="image" src="https://github.com/user-attachments/assets/86ae42e7-ffc1-400f-9a2a-f80d388516b5" />](https://youtu.be/rktysGYzaO0?t=578)     
+"Une video sur l'histoire de depart de Git"     
+https://youtu.be/rktysGYzaO0?t=578     
+
+
 -----------
 
 # Hello Git for Godot and Unity
