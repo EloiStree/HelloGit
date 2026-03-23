@@ -8,6 +8,10 @@ Start [here](https://github.com/EloiStree//HelloGit/issues/42)
 https://youtu.be/rktysGYzaO0?t=578     
 
 
+J y avais jamais pensee mais, le code de git est ici:     
+[https://github.com/git/git](https://github.com/git/git)     
+"Git utilise git pour se sauver" [🎥](https://youtu.be/rktysGYzaO0?t=730)  
+
 -----------
 
 # Hello Git for Godot and Unity
