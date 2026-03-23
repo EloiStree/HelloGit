@@ -8,7 +8,7 @@ Start [here](https://github.com/EloiStree//HelloGit/issues/42)
 https://youtu.be/rktysGYzaO0?t=578     
   
 A regarder si vous parlerz francais:  
-https://github.com/EloiStree/HelloGit/issues/66  
+- https://github.com/EloiStree/HelloGit/issues/66  
   
 J y avais jamais pensee mais, le code de git est ici:     
 [https://github.com/git/git](https://github.com/git/git)     
