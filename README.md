@@ -20,6 +20,15 @@ Git: "an unpleasant or contemptible person (typically used of a man)." [Wiki](ht
 - https://en.wikipedia.org/wiki/Git_(slang)
 - https://youtu.be/rktysGYzaO0?t=755
 
+
+Linus: 
+[<img width="1619" height="2024" alt="image" src="https://github.com/user-attachments/assets/cb8db27e-e361-4c61-8463-e6105497dc65" />](https://www.facesofopensource.com/?s=linus)   
+https://www.facesofopensource.com/?s=linus   
+
+
+Junio Hamano:  
+[<img width="1619" height="2024" alt="image" src="https://github.com/user-attachments/assets/2ba1cf48-e6e4-4449-9332-a3994aa6cdd1" />](https://www.facesofopensource.com/junio-hamano/)  
+https://www.facesofopensource.com/junio-hamano/  
   
 -----------
 
