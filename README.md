@@ -6,12 +6,12 @@ Start [here](https://github.com/EloiStree//HelloGit/issues/42)
 [<img width="1039" height="276" alt="image" src="https://github.com/user-attachments/assets/86ae42e7-ffc1-400f-9a2a-f80d388516b5" />](https://youtu.be/rktysGYzaO0?t=578)     
 "Une video sur l'histoire de depart de Git"     
 https://youtu.be/rktysGYzaO0?t=578     
-  
-A regarder si vous parlerz francais: [#66](https://github.com/EloiStree/HelloGit/issues/66)     
-- [Il s'est fait trahir. Il a créé l'outil le plus utilisé au monde.](https://github.com/EloiStree/HelloGit/issues/66)  
-
+    
+A regarder si vous parlerz francais: [#66](https://github.com/EloiStree/HelloGit/issues/66)       
+- [Video sur ce qu est git et son histoire.](https://github.com/EloiStree/HelloGit/issues/66)  
+   
 J y avais jamais pensee mais, le code de git est ici:     
-[https://github.com/git/git](https://github.com/git/git)     
+[https://github.com/git/git](https://github.com/git/git)       
 "Git utilise git pour se sauver" [🎥](https://youtu.be/rktysGYzaO0?t=730)  
 
 
