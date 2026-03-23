@@ -12,6 +12,13 @@ J y avais jamais pensee mais, le code de git est ici:
 [https://github.com/git/git](https://github.com/git/git)     
 "Git utilise git pour se sauver" [🎥](https://youtu.be/rktysGYzaO0?t=730)  
 
+
+Git: "an unpleasant or contemptible person (typically used of a man)." [Wiki](https://en.wikipedia.org/wiki/Git_(slang)) 😅
+[<img width="700" height="785" alt="image" src="https://github.com/user-attachments/assets/65c5a505-38c2-440f-a2ee-d3d642e11f86" />](https://en.wikipedia.org/wiki/Git_(slang))
+- https://en.wikipedia.org/wiki/Git_(slang)
+- https://youtu.be/rktysGYzaO0?t=755
+
+  
 -----------
 
 # Hello Git for Godot and Unity
